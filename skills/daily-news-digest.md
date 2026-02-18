@@ -55,9 +55,33 @@ Rank items by relevance using this priority order:
 - If a story is speculative or unconfirmed, flag it explicitly
 - Attribute all sources
 
+### Required Sources
+
+Always consult the following sources and incorporate relevant stories:
+
+**Hacker News** (https://news.ycombinator.com)
+- Summarize the top 5 stories by points
+- For each, include the headline, link, point count, and a 2-3 sentence summary of the surrounding discussion (key arguments, sentiment, notable insights from comments)
+
+**The Verge** (https://www.theverge.com/tech)
+- Cover the most popular/featured stories of the day
+- Focus on tech, platform, and product stories relevant to my role
+
+**TechMeme** (https://www.techmeme.com)
+- Cover the top featured stories of the day
+- Focus on industry moves, competitive signals, and major announcements
+
+**CBC News** (https://www.cbc.ca/news)
+- Focus on Technology, Business, and Science sections
+- Include Canadian tech/business stories and any with global implications
+
+### Additional Sources
+
+- Also draw from: Ars Technica, Reuters, Bloomberg, WSJ, TechCrunch, Wired, Microsoft blogs
+- Cross-reference stories across sources for confirmation and depth
+
 ### Constraints
 
 - Focus on the last 24 hours of news
-- Prefer primary sources and reputable outlets (e.g., The Verge, Ars Technica, Reuters, Bloomberg, WSJ, TechCrunch, Wired, Microsoft blogs)
 - If there are fewer than 10 relevant stories, do not pad — quality over quantity
 - If a major breaking story dominates the cycle, dedicate extra space to it and reduce other items accordingly
