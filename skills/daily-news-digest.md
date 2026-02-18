@@ -74,16 +74,26 @@ Always consult the following sources and incorporate relevant stories:
 
 **CBC News** (https://www.cbc.ca/news)
 - Focus on Technology, Business (https://www.cbc.ca/news/business), and Science (https://www.cbc.ca/news/science) sections
-- **Only include stories published within the last 48 hours** — skip anything older
 - Include Canadian tech/business stories and any with global implications
 
-### Additional Sources
+**Reddit — Windows & Tech Communities**
+- Check r/Windows, r/Windows11, r/sysadmin, r/technology for trending posts
+- Summarize top discussions, complaints, feature requests, and sentiment
+- Flag any viral bug reports, workarounds, or user-discovered features
 
-- Also draw from: Ars Technica, Reuters, Bloomberg, WSJ, TechCrunch, Wired, Microsoft blogs
+**YouTube — Tech & Laptop Reviewers**
+- Check latest videos (last 24h) from: Linus Tech Tips (LTT), MKBHD, Dave2D, JerryRigEverything, Hardware Canucks, The Tech Chap, Austin Evans, Lisa from MobileTechReview
+- Summarize any reviews, benchmarks, or opinion pieces related to Windows, PCs, laptops, or competing platforms
+- Note viewer sentiment from like ratios and top comments when available
+
+### Industry Publications
+
+- Ars Technica, Reuters, Bloomberg, WSJ, TechCrunch, Wired, Microsoft blogs
+- ZDNet, Tom's Hardware, Windows Central, Neowin, BleepingComputer, The Register
 - Cross-reference stories across sources for confirmation and depth
 
 ### Constraints
 
-- Focus on the last 24 hours of news for all sources; CBC News may include stories up to 48 hours old
+- **Hard constraint: all stories must be published within the last 24 hours** — skip anything older, no exceptions
 - If there are fewer than 10 relevant stories, do not pad — quality over quantity
 - If a major breaking story dominates the cycle, dedicate extra space to it and reduce other items accordingly
