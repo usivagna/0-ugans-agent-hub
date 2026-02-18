@@ -63,8 +63,9 @@ Always consult the following sources and incorporate relevant stories:
 - Summarize the top 5 stories by points
 - For each, include the headline, link, point count, and a 2-3 sentence summary of the surrounding discussion (key arguments, sentiment, notable insights from comments)
 
-**The Verge** (https://www.theverge.com/tech)
-- Cover the most popular/featured stories of the day
+**The Verge** (https://www.theverge.com)
+- Navigate to the homepage and locate the "Most Popular" section (identified by `<h2 class="">Most Popular</h2>`)
+- Traverse each link in that section to get full article details
 - Focus on tech, platform, and product stories relevant to my role
 
 **TechMeme** (https://www.techmeme.com)
@@ -72,7 +73,8 @@ Always consult the following sources and incorporate relevant stories:
 - Focus on industry moves, competitive signals, and major announcements
 
 **CBC News** (https://www.cbc.ca/news)
-- Focus on Technology, Business, and Science sections
+- Focus on Technology, Business (https://www.cbc.ca/news/business), and Science (https://www.cbc.ca/news/science) sections
+- **Only include stories published within the last 48 hours** — skip anything older
 - Include Canadian tech/business stories and any with global implications
 
 ### Additional Sources
@@ -82,6 +84,6 @@ Always consult the following sources and incorporate relevant stories:
 
 ### Constraints
 
-- Focus on the last 24 hours of news
+- Focus on the last 24 hours of news for all sources; CBC News may include stories up to 48 hours old
 - If there are fewer than 10 relevant stories, do not pad — quality over quantity
 - If a major breaking story dominates the cycle, dedicate extra space to it and reduce other items accordingly
